@@ -1,0 +1,65 @@
+.panda{
+    background-image: url(photo_87287315_%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%81%AA%E3%83%91%E3%83%B3%E3%83%80%E6%9F%84%E7%AB%B9%E4%B8%AD%E5%9B%BD%E9%87%8E%E7%94%9F%E3%81%AE%E3%82%AF%E3%83%9E%E5%93%BA%E4%B9%B3%E9%A1%9E%E7%BE%8E%E3%81%97%E3%81%84%E8%A3%85%E9%A3%BE%E5%8B%95%E7%89%A9%E5%9C%92%E3%82%A2%E3%82%B8%E3%82%A2%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E8%83%8C%E6%99%AF%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88.html);
+}
+
+body{
+    background-color: rgb(255 99 71);
+}
+
+.Mr17{
+   background-image: url(panda.jpg); 
+}
+
+h1{
+    color: rgb(220 20 60);
+}
+
+h2{
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+.tamago{
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+img{
+    text-align: center;
+    height: 250;
+    width: inherit;
+    border-radius: 10px;
+    border-color: 10px solid deeppink;
+}
+
+button{
+    box-shadow: 0 0 10px 5px 1px;
+    padding: inherit;
+    width: 100px;
+    height: auto;
+    opacity: 1;
+}
+
+a{
+    font-family: cursive;
+    font-size: 30px;
+    color: yellow;
+}
+
+
+
+.quiz{
+    font-family: cursive, ;
+}
+
+.p10{
+    font-size: 30px;
+    text-align: center;
+}
